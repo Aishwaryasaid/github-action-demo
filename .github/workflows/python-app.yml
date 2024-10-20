@@ -1,4 +1,3 @@
-thub/workflows/python-app.yml
 name: Python application
 
 on: [push, pull_request]
